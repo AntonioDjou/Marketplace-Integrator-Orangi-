@@ -2,7 +2,7 @@
 Projeto desenvolvido para um cliente. Link para o video:
 https://youtu.be/7rjeGW1dQyM
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7rjeGW1dQyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7rjeGW1dQyM/0.jpg)](https://www.youtube.com/watch?v=7rjeGW1dQyM)
 
 Projeto desenvolvido em C# para receber os pedidos de diversos restaurantes via JSON e então armazenado em tabelas usando MySQL, manipulado em tempo real de acordo com o status do pedido. 
 
