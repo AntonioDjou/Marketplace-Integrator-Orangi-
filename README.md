@@ -1,4 +1,4 @@
-# Marketplace-Integrator-Orangi [🏴󠁧󠁢󠁥󠁮󠁧󠁿English description below!]
+# Marketplace-Integrator-Orangi [🏴󠁧󠁢󠁥󠁮󠁧󠁿<i>English description below!</i>]
 ## 🇧🇷 Projeto desenvolvido em C# para receber os pedidos de diversos restaurantes via JSON e então armazenado em tabelas usando MySQL, manipulado em tempo real de acordo com o status do pedido. 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7rjeGW1dQyM/0.jpg)](https://www.youtube.com/watch?v=7rjeGW1dQyM)
